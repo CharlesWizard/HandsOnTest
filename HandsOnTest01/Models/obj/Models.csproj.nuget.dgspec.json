@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Models\\Models.csproj": {}
+    "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Models\\Models.csproj": {
+    "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Models\\Models.csproj",
+        "projectPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\cajul\\.nuget\\packages\\",
-        "outputPath": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Models\\obj\\",
+        "outputPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cajul\\AppData\\Roaming\\NuGet\\NuGet.Config",

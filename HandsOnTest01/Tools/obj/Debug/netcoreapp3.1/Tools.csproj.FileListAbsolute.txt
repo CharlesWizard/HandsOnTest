@@ -1,0 +1,8 @@
+C:\Coding\Git\Dev\HandsOnTest\HandsOnTest01\Tools\bin\Debug\netcoreapp3.1\Tools.deps.json
+C:\Coding\Git\Dev\HandsOnTest\HandsOnTest01\Tools\bin\Debug\netcoreapp3.1\Tools.dll
+C:\Coding\Git\Dev\HandsOnTest\HandsOnTest01\Tools\bin\Debug\netcoreapp3.1\Tools.pdb
+C:\Coding\Git\Dev\HandsOnTest\HandsOnTest01\Tools\obj\Debug\netcoreapp3.1\Tools.csproj.CoreCompileInputs.cache
+C:\Coding\Git\Dev\HandsOnTest\HandsOnTest01\Tools\obj\Debug\netcoreapp3.1\Tools.AssemblyInfoInputs.cache
+C:\Coding\Git\Dev\HandsOnTest\HandsOnTest01\Tools\obj\Debug\netcoreapp3.1\Tools.AssemblyInfo.cs
+C:\Coding\Git\Dev\HandsOnTest\HandsOnTest01\Tools\obj\Debug\netcoreapp3.1\Tools.dll
+C:\Coding\Git\Dev\HandsOnTest\HandsOnTest01\Tools\obj\Debug\netcoreapp3.1\Tools.pdb

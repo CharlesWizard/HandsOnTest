@@ -373,6 +373,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Data": "1.0.0",
           "Models": "1.0.0",
           "Newtonsoft.Json": "12.0.3"
         },
@@ -383,6 +384,21 @@
           "bin/placeholder/Business.dll": {}
         }
       },
+      "Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Models": "1.0.0",
+          "Newtonsoft.Json": "12.0.3",
+          "Tools": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data.dll": {}
+        }
+      },
       "Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -391,6 +407,16 @@
         },
         "runtime": {
           "bin/placeholder/Models.dll": {}
+        }
+      },
+      "Tools/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Tools.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tools.dll": {}
         }
       }
     }
@@ -897,10 +923,20 @@
       "path": "../Business/Business.csproj",
       "msbuildProject": "../Business/Business.csproj"
     },
+    "Data/1.0.0": {
+      "type": "project",
+      "path": "../Data/Data.csproj",
+      "msbuildProject": "../Data/Data.csproj"
+    },
     "Models/1.0.0": {
       "type": "project",
       "path": "../Models/Models.csproj",
       "msbuildProject": "../Models/Models.csproj"
+    },
+    "Tools/1.0.0": {
+      "type": "project",
+      "path": "../Tools/Tools.csproj",
+      "msbuildProject": "../Tools/Tools.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -919,11 +955,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\HandsOnTest\\HandsOnTest.csproj",
+      "projectUniqueName": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\HandsOnTest\\HandsOnTest.csproj",
       "projectName": "HandsOnTest",
-      "projectPath": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\HandsOnTest\\HandsOnTest.csproj",
+      "projectPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\HandsOnTest\\HandsOnTest.csproj",
       "packagesPath": "C:\\Users\\cajul\\.nuget\\packages\\",
-      "outputPath": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\HandsOnTest\\obj\\",
+      "outputPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\HandsOnTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cajul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -939,11 +975,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Business\\Business.csproj": {
-              "projectPath": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Business\\Business.csproj"
+            "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Business\\Business.csproj": {
+              "projectPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Business\\Business.csproj"
             },
-            "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Models\\Models.csproj": {
-              "projectPath": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Models\\Models.csproj"
+            "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Models\\Models.csproj": {
+              "projectPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Models\\Models.csproj"
             }
           }
         }

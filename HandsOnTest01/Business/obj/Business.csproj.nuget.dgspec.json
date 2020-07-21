@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Business\\Business.csproj": {}
+    "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Business\\Business.csproj": {
+    "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Business\\Business.csproj",
+        "projectPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\cajul\\.nuget\\packages\\",
-        "outputPath": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Business\\obj\\",
+        "outputPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cajul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Models\\Models.csproj": {
-                "projectPath": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Models\\Models.csproj"
+              "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Data\\Data.csproj": {
+                "projectPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Data\\Data.csproj"
+              },
+              "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Models\\Models.csproj": {
+                "projectPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Models\\Models.csproj"
               }
             }
           }
@@ -66,14 +69,131 @@
         }
       }
     },
-    "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Models\\Models.csproj": {
+    "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Models\\Models.csproj",
-        "projectName": "Models",
-        "projectPath": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\cajul\\.nuget\\packages\\",
-        "outputPath": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Models\\obj\\",
+        "outputPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cajul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Models\\Models.csproj": {
+                "projectPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Models\\Models.csproj"
+              },
+              "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Tools\\Tools.csproj": {
+                "projectPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Tools\\Tools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\cajul\\.nuget\\packages\\",
+        "outputPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cajul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Tools\\Tools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Tools\\Tools.csproj",
+        "projectName": "Tools",
+        "projectPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Tools\\Tools.csproj",
+        "packagesPath": "C:\\Users\\cajul\\.nuget\\packages\\",
+        "outputPath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Tools\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cajul\\AppData\\Roaming\\NuGet\\NuGet.Config",

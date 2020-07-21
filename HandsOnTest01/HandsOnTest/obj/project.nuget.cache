@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gPZeZDx75c7dSNlaUiWi4HsbNiaNBHSFvODAY5Ii8pzS5xOxS+dh6gW8alV4f4E0ZSD/0eRb8lCxlIpxVW6OVg==",
+  "dgSpecHash": "TCn51RQKrjihXBfN+vwXgywNtIlFxvWZ5vDUH6hJIUDppifyBtrPyT+Px/iUyw7u4g2gqczodkrzsq0cHoRZDg==",
   "success": true,
-  "projectFilePath": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\HandsOnTest\\HandsOnTest.csproj",
+  "projectFilePath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\HandsOnTest\\HandsOnTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cajul\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\cajul\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

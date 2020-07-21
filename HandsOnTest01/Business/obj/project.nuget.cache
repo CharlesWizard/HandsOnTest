@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EhiUehsYPZSjD8PCP5OuzXPgLZrAXe8LsrdG4TFoolqKD4WP8DD9prw/Bj8N4FrJisuEgIYgML6VKHHZnIMOcg==",
+  "dgSpecHash": "4uhANl58ljfA3y8ZXVD7+SG2v9nq0sLkjAC9iFfTR9H9XGpvfP1i5BFYzaycsd48jm2cMxthdD7zE6K0vmhNqg==",
   "success": true,
-  "projectFilePath": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Coding\\Git\\Dev\\HandsOnTest\\HandsOnTest01\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cajul\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
