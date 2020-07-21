@@ -1,0 +1,38 @@
+<h1 id="tableLabel">Employees</h1>
+
+<p>List information of employees.</p>
+
+<p *ngIf="!employees"><em>Loading...</em></p>
+<div class='card-body'>
+  <div class='row'>
+    <div class='col-md-2'>Filter by Id:</div>
+    <div class='col-md-4' [formGroup]="form">
+      <input type='text'  formControlName ="id" />
+    </div>
+  </div>
+ </div>
+
+  <table class='table table-striped' aria-labelledby="tableLabel" *ngIf="employees">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Name</th>
+        <th>Contract Type</th>
+        <th>Rol</th>
+        <th>Salary</th>
+        <th>Anual Salary</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let employee of employees">
+        <td>
+            {{ employee.id }}
+        </td>
+        <td>{{ employee.name }}</td>
+        <td>{{ employee.contractTypeName }}</td>
+        <td>{{ employee.roleName }}</td>
+        <td> {{ ((employee.contractTypeName =='HourlySalaryEmployee') ? employee.hourlySalary : employee.monthlySalary)  | currency: 'USD': 'symbol':'4.2-2' }}</td>
+        <td>{{ employee.anualSalary    | currency: 'USD': 'symbol':'4.2-2'}}</td>
+      </tr>
+    </tbody>
+  </table>

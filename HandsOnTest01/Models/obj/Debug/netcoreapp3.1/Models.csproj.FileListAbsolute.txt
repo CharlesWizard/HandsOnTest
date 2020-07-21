@@ -1,0 +1,17 @@
+C:\Users\cajul\source\repos\HandsOnTest01\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\cajul\source\repos\HandsOnTest01\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\cajul\source\repos\HandsOnTest01\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\cajul\source\repos\HandsOnTest01\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\cajul\source\repos\HandsOnTest01\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\cajul\source\repos\HandsOnTest01\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\cajul\source\repos\HandsOnTest01\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\cajul\source\repos\HandsOnTest01\Models\obj\Debug\netcoreapp3.1\Models.pdb
+C:\Coding\Git\MasGlobal\HandsOnTest01\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Coding\Git\MasGlobal\HandsOnTest01\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Coding\Git\MasGlobal\HandsOnTest01\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Coding\Git\MasGlobal\HandsOnTest01\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\Coding\Git\MasGlobal\HandsOnTest01\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Coding\Git\MasGlobal\HandsOnTest01\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Coding\Git\MasGlobal\HandsOnTest01\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Coding\Git\MasGlobal\HandsOnTest01\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Coding\Git\MasGlobal\HandsOnTest01\Models\obj\Debug\netcoreapp3.1\Models.pdb

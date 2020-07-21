@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EhiUehsYPZSjD8PCP5OuzXPgLZrAXe8LsrdG4TFoolqKD4WP8DD9prw/Bj8N4FrJisuEgIYgML6VKHHZnIMOcg==",
+  "success": true,
+  "projectFilePath": "C:\\Coding\\Git\\MasGlobal\\HandsOnTest01\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cajul\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
